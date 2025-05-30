@@ -1,4 +1,4 @@
-# Título do projeto
+# CRUD Python Terminal
 
 CRUD simples executado em terminal utilzando Python, SqlAlchemy e MySql.
 
